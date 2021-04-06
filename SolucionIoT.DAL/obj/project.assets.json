@@ -34,6 +34,19 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "SolucionIoT.COMMON/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "FluentValidation": "9.5.3"
+        },
+        "compile": {
+          "bin/placeholder/SolucionIoT.COMMON.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SolucionIoT.COMMON.dll": {}
+        }
       }
     }
   },
@@ -199,12 +212,17 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "SolucionIoT.COMMON/1.0.0": {
+      "type": "project",
+      "path": "../SolucionIoT.COMMON/SolucionIoT.COMMON.csproj",
+      "msbuildProject": "../SolucionIoT.COMMON/SolucionIoT.COMMON.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
-      "FluentValidation >= 9.5.3",
-      "NETStandard.Library >= 2.0.3"
+      "NETStandard.Library >= 2.0.3",
+      "SolucionIoT.COMMON >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -215,11 +233,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\AplicacionesXamarin\\SolucionIoT\\SolucionIoT.COMMON\\SolucionIoT.COMMON.csproj",
-      "projectName": "SolucionIoT.COMMON",
-      "projectPath": "C:\\AplicacionesXamarin\\SolucionIoT\\SolucionIoT.COMMON\\SolucionIoT.COMMON.csproj",
+      "projectUniqueName": "C:\\AplicacionesXamarin\\SolucionIoT\\SolucionIoT.DAL\\SolucionIoT.DAL.csproj",
+      "projectName": "SolucionIoT.DAL",
+      "projectPath": "C:\\AplicacionesXamarin\\SolucionIoT\\SolucionIoT.DAL\\SolucionIoT.DAL.csproj",
       "packagesPath": "C:\\Users\\Jesus Guarneros\\.nuget\\packages\\",
-      "outputPath": "C:\\AplicacionesXamarin\\SolucionIoT\\SolucionIoT.COMMON\\obj\\",
+      "outputPath": "C:\\AplicacionesXamarin\\SolucionIoT\\SolucionIoT.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -240,7 +258,11 @@
       "frameworks": {
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\AplicacionesXamarin\\SolucionIoT\\SolucionIoT.COMMON\\SolucionIoT.COMMON.csproj": {
+              "projectPath": "C:\\AplicacionesXamarin\\SolucionIoT\\SolucionIoT.COMMON\\SolucionIoT.COMMON.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -253,10 +275,6 @@
       "netstandard2.0": {
         "targetAlias": "netstandard2.0",
         "dependencies": {
-          "FluentValidation": {
-            "target": "Package",
-            "version": "[9.5.3, )"
-          },
           "NETStandard.Library": {
             "suppressParent": "All",
             "target": "Package",
