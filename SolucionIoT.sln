@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SolucionIoT.DAL", "Solucion
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolucionIoT.BIZ", "SolucionIoT.BIZ\SolucionIoT.BIZ.csproj", "{F580BA7F-E111-4044-9CD0-0ACE638398DB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolucionIoT.Web", "SolucionIoT.Web\SolucionIoT.Web.csproj", "{8BF7A1DA-F254-4FF7-9BFA-FB64B84B0841}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{F580BA7F-E111-4044-9CD0-0ACE638398DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F580BA7F-E111-4044-9CD0-0ACE638398DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F580BA7F-E111-4044-9CD0-0ACE638398DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BF7A1DA-F254-4FF7-9BFA-FB64B84B0841}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BF7A1DA-F254-4FF7-9BFA-FB64B84B0841}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BF7A1DA-F254-4FF7-9BFA-FB64B84B0841}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BF7A1DA-F254-4FF7-9BFA-FB64B84B0841}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

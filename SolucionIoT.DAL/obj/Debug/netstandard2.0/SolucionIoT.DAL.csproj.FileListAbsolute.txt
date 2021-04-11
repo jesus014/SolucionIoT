@@ -2,3 +2,11 @@ C:\AplicacionesXamarin\SolucionIoT\SolucionIoT.DAL\bin\Debug\netstandard2.0\Solu
 C:\AplicacionesXamarin\SolucionIoT\SolucionIoT.DAL\obj\Debug\netstandard2.0\SolucionIoT.DAL.csprojAssemblyReference.cache
 C:\AplicacionesXamarin\SolucionIoT\SolucionIoT.DAL\obj\Debug\netstandard2.0\SolucionIoT.DAL.AssemblyInfoInputs.cache
 C:\AplicacionesXamarin\SolucionIoT\SolucionIoT.DAL\obj\Debug\netstandard2.0\SolucionIoT.DAL.AssemblyInfo.cs
+C:\AplicacionesXamarin\SolucionIoT\SolucionIoT.DAL\bin\Debug\netstandard2.0\SolucionIoT.DAL.deps.json
+C:\AplicacionesXamarin\SolucionIoT\SolucionIoT.DAL\bin\Debug\netstandard2.0\SolucionIoT.DAL.dll
+C:\AplicacionesXamarin\SolucionIoT\SolucionIoT.DAL\bin\Debug\netstandard2.0\SolucionIoT.DAL.pdb
+C:\AplicacionesXamarin\SolucionIoT\SolucionIoT.DAL\bin\Debug\netstandard2.0\SolucionIoT.COMMON.pdb
+C:\AplicacionesXamarin\SolucionIoT\SolucionIoT.DAL\obj\Debug\netstandard2.0\SolucionIoT.DAL.csproj.CoreCompileInputs.cache
+C:\AplicacionesXamarin\SolucionIoT\SolucionIoT.DAL\obj\Debug\netstandard2.0\SolucionIoT.DAL.csproj.CopyComplete
+C:\AplicacionesXamarin\SolucionIoT\SolucionIoT.DAL\obj\Debug\netstandard2.0\SolucionIoT.DAL.dll
+C:\AplicacionesXamarin\SolucionIoT\SolucionIoT.DAL\obj\Debug\netstandard2.0\SolucionIoT.DAL.pdb
