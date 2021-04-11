@@ -15,7 +15,7 @@ namespace SolucionIoT.BIZ
 
         public Usuario Login(string email, string password)
         {
-            return repository.Query(u => u.Correo == email && u.Password == password).SingleOrDefault();
+            return repository.Query(u => u.Correo == email && u.Password == password).ToList().SingleOrDefault();
         }
     }
 }

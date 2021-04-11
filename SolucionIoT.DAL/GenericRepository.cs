@@ -6,6 +6,7 @@ using System.Linq.Expressions;
 using System.Text;
 using LiteDB;
 using FluentValidation;
+using System.Linq;
 
 namespace SolucionIoT.DAL
 {
@@ -117,7 +118,7 @@ namespace SolucionIoT.DAL
                IEnumerable<T>  entidades;
                 using (var db = new LiteDatabase(new ConnectionString() { Filename = dbName }))
                 {
-                    entidades = db.GetCollection<T>(typeof(T).Name).Find(predicado);
+                    entidades = db.GetCollection<T>(typeof(T).Name).Find(predicado).ToList();
                 }
                 Error = entidades != null ? "" : "No se encontraron la entidad";
                 return entidades;
