@@ -12,7 +12,9 @@ namespace SolucionIoT.DAL
     public class GenericRepository<T> : IGenericRepository<T> where T : BaseDTO
     {
         readonly string dbName = @"DBIoT.db";
+
         public string Error { get;private set; }
+
         readonly AbstractValidator<T> validator;
 
         public IEnumerable<T> Read 

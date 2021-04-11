@@ -8,6 +8,7 @@ namespace SolucionIoT.COMMON.Interfaces
 {
     public interface IGenericRepository<T> where T:BaseDTO
     {
+        string Error { get;  }
         IEnumerable<T> Read { get; }
 
         T Create(T entidad);

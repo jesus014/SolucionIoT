@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "eVxTyJ7XP3B9m3DO5wNXKqMDM9q/05GgQ8ptKYfNTGp7OikC29iD90FOSMtnmbKDIHcxBVlfcTMGff/xYTBZsQ==",
+  "success": true,
+  "projectFilePath": "C:\\AplicacionesXamarin\\SolucionIoT\\SolucionIoT.BIZ\\SolucionIoT.BIZ.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jesus Guarneros\\.nuget\\packages\\fluentvalidation\\9.5.3\\fluentvalidation.9.5.3.nupkg.sha512",
+    "C:\\Users\\Jesus Guarneros\\.nuget\\packages\\litedb\\5.0.10\\litedb.5.0.10.nupkg.sha512",
+    "C:\\Users\\Jesus Guarneros\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Jesus Guarneros\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -7,6 +7,8 @@ namespace SolucionIoT.COMMON.Interfaces
 {
     public interface IGenericManager<T> where T:BaseDTO
     {
+        string Error { get; }
+
        IEnumerable<T> ObtenerTodos { get; }
 
         T Insertar(T entidad);
