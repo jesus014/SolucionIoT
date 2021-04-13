@@ -9,7 +9,7 @@ namespace SolucionIoT.COMMON.Validadores
     {
         public AccionValidator()
         {
-            RuleFor(a => a.Actuador).NotEmpty().NotNull().IsInEnum();
+            RuleFor(a => a.Actuador).NotEmpty().NotNull();
             RuleFor(a => a.IdDispositivo).NotEmpty().NotNull();
             RuleFor(a => a.Estado).NotEmpty().NotNull();
         }

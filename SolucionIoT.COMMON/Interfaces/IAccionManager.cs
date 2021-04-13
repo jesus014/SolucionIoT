@@ -11,6 +11,6 @@ namespace SolucionIoT.COMMON.Interfaces
         
         IEnumerable<Accion> AccionesDelDispositivo(string id, DateTime inicio, DateTime fin);
         
-        IEnumerable<Accion> AccionesDelDispositivo(string id, Actuador actuador, DateTime inicio, DateTime fin);
+        IEnumerable<Accion> AccionesDelDispositivo(string id, string actuador, DateTime inicio, DateTime fin);
     }
 }

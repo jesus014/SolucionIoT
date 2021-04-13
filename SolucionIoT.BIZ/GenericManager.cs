@@ -16,7 +16,6 @@ namespace SolucionIoT.BIZ
         }
         public IEnumerable<T> ObtenerTodos => repository.Read;
 
-        string error;
 
         public string Error => repository.Error;
 

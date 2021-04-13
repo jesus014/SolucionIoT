@@ -7,6 +7,7 @@ namespace SolucionIoT.COMMON.Interfaces
 {
    public interface IUsuarioManager : IGenericManager <Usuario> 
     {
+
         Usuario Login(string email, string password);
     }
 }

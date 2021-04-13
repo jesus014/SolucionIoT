@@ -23,7 +23,7 @@ namespace SolucionIoT.BIZ
             return repository.Query(a => a.IdDispositivo==id && a.FechaHora >= inicio && a.FechaHora <= fin);
         }
 
-        public IEnumerable<Accion> AccionesDelDispositivo(string id, Actuador actuador, DateTime inicio, DateTime fin)
+        public IEnumerable<Accion> AccionesDelDispositivo(string id, string actuador, DateTime inicio, DateTime fin)
         {
             return repository.Query(a => a.IdDispositivo == id && a.Actuador == actuador && a.FechaHora >= inicio && a.FechaHora <= fin);
         }

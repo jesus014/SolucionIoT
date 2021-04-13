@@ -41,6 +41,7 @@ namespace SolucionIoT.Web.Pages
                 if (u != null)
                 {
 
+                    Error = $"Bienvenido {u.Nombre}!!!";
                 }
                 else
                 {

@@ -27,7 +27,7 @@ namespace SolucionIoT.DAL
                     IEnumerable<T> entidades;
                     using (var db = new LiteDatabase(new ConnectionString() { Filename = dbName }))
                     {
-                        entidades = db.GetCollection<T>(typeof(T).Name).FindAll();
+                        entidades = db.GetCollection<T>(typeof(T).Name).FindAll().ToList();
                     }
                     Error = entidades != null ? "" : "No se encontraron la entidad";
                     return entidades;
@@ -51,10 +51,8 @@ namespace SolucionIoT.DAL
             try
             {
                 entidad.Id = Guid.NewGuid().ToString();
-                if (entidad.FechaHora == null)
-                {
-                    entidad.FechaHora = DateTime.Now;
-                }
+                entidad.FechaHora = DateTime.Now;
+               
                 var resultV = validator.Validate(entidad);
                 if (resultV.IsValid)
                 {

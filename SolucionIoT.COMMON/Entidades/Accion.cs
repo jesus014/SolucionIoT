@@ -18,7 +18,7 @@ namespace SolucionIoT.COMMON.Entidades
     {
         public string IdDispositivo { get; set; }
 
-        public Actuador Actuador { get; set; }
+        public string Actuador { get; set; }
 
         public bool Estado { get; set; }
     }
