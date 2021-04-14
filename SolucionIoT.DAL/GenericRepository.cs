@@ -12,7 +12,9 @@ namespace SolucionIoT.DAL
 {
     public class GenericRepository<T> : IGenericRepository<T> where T : BaseDTO
     {
-        readonly string dbName = @"DBIoT.db";
+        //readonly string dbName = @"DBIoT.db";//debug
+        readonly string dbName = @"d:\DZHosts\LocalUser\EquipoKobra\Protected.solucionIoTKobra.somee.com\DBIoT.db";//somme.com
+
 
         public string Error { get;private set; }
 

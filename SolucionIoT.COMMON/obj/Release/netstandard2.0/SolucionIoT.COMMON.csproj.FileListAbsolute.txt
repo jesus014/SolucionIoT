@@ -1,0 +1,9 @@
+C:\AplicacionesXamarin\SolucionIoT\SolucionIoT.COMMON\bin\Release\netstandard2.0\SolucionIoT.COMMON.deps.json
+C:\AplicacionesXamarin\SolucionIoT\SolucionIoT.COMMON\bin\Release\netstandard2.0\SolucionIoT.COMMON.dll
+C:\AplicacionesXamarin\SolucionIoT\SolucionIoT.COMMON\bin\Release\netstandard2.0\SolucionIoT.COMMON.pdb
+C:\AplicacionesXamarin\SolucionIoT\SolucionIoT.COMMON\obj\Release\netstandard2.0\SolucionIoT.COMMON.csprojAssemblyReference.cache
+C:\AplicacionesXamarin\SolucionIoT\SolucionIoT.COMMON\obj\Release\netstandard2.0\SolucionIoT.COMMON.AssemblyInfoInputs.cache
+C:\AplicacionesXamarin\SolucionIoT\SolucionIoT.COMMON\obj\Release\netstandard2.0\SolucionIoT.COMMON.AssemblyInfo.cs
+C:\AplicacionesXamarin\SolucionIoT\SolucionIoT.COMMON\obj\Release\netstandard2.0\SolucionIoT.COMMON.csproj.CoreCompileInputs.cache
+C:\AplicacionesXamarin\SolucionIoT\SolucionIoT.COMMON\obj\Release\netstandard2.0\SolucionIoT.COMMON.dll
+C:\AplicacionesXamarin\SolucionIoT\SolucionIoT.COMMON\obj\Release\netstandard2.0\SolucionIoT.COMMON.pdb

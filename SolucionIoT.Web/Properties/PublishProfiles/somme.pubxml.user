@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo se usa en el proceso de publicación y empaquetado del proyecto web. Para personalizar el comportamiento de este proceso,
+edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 para obtener más información. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAkYrYz5Gj4kC4lQFteOclSQAAAAACAAAAAAAQZgAAAAEAACAAAADmubaVExXcEnYbt7gKKMtGorEw+NAVi0g71FwK99lIqwAAAAAOgAAAAAIAACAAAACoo8+NEzS2htDt6zDhvwDAfguBLvvaiObpLif09X/68yAAAAAzqm6AEkTcDRixww2pL79hZARPHWhhSOrDtp1kOCZyaUAAAABnnpbcKgoknFapI0twr0nxv0VT1VlREBcuSfXsNhBp+MTMF7cp0xv35dpoYxU90yVIbrUqzN3avECvfTtbXisE</EncryptedPassword>
+    <_PublishTargetUrl>ftp://solucionIoTKobra.somee.com/www.solucionIoTKobra.somee.com</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>04/11/2021 13:51:41</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>04/11/2021 13:51:41</publishTime>
+    </File>
+    <File Include="FluentValidation.dll">
+      <publishTime>03/15/2021 18:02:44</publishTime>
+    </File>
+    <File Include="LiteDB.dll">
+      <publishTime>01/09/2021 20:46:58</publishTime>
+    </File>
+    <File Include="SolucionIoT.BIZ.dll">
+      <publishTime>04/13/2021 11:35:19</publishTime>
+    </File>
+    <File Include="SolucionIoT.BIZ.pdb">
+      <publishTime>04/13/2021 11:35:19</publishTime>
+    </File>
+    <File Include="SolucionIoT.COMMON.dll">
+      <publishTime>04/13/2021 11:35:16</publishTime>
+    </File>
+    <File Include="SolucionIoT.COMMON.pdb">
+      <publishTime>04/13/2021 11:35:16</publishTime>
+    </File>
+    <File Include="SolucionIoT.DAL.dll">
+      <publishTime>04/13/2021 11:35:18</publishTime>
+    </File>
+    <File Include="SolucionIoT.DAL.pdb">
+      <publishTime>04/13/2021 11:35:18</publishTime>
+    </File>
+    <File Include="SolucionIoT.Web.deps.json">
+      <publishTime>04/13/2021 11:35:30</publishTime>
+    </File>
+    <File Include="SolucionIoT.Web.dll">
+      <publishTime>04/13/2021 11:35:23</publishTime>
+    </File>
+    <File Include="SolucionIoT.Web.exe">
+      <publishTime>04/13/2021 11:35:24</publishTime>
+    </File>
+    <File Include="SolucionIoT.Web.pdb">
+      <publishTime>04/13/2021 11:35:23</publishTime>
+    </File>
+    <File Include="SolucionIoT.Web.runtimeconfig.json">
+      <publishTime>04/13/2021 11:35:30</publishTime>
+    </File>
+    <File Include="SolucionIoT.Web.Views.dll">
+      <publishTime>04/13/2021 11:35:30</publishTime>
+    </File>
+    <File Include="SolucionIoT.Web.Views.pdb">
+      <publishTime>04/13/2021 11:35:30</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>04/13/2021 11:36:00</publishTime>
+    </File>
+    <File Include="wwwroot/css/site.css">
+      <publishTime>04/11/2021 13:51:42</publishTime>
+    </File>
+    <File Include="wwwroot/favicon.ico">
+      <publishTime>04/11/2021 13:51:42</publishTime>
+    </File>
+    <File Include="wwwroot/js/site.js">
+      <publishTime>04/11/2021 13:51:42</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css">
+      <publishTime>04/11/2021 13:51:42</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map">
+      <publishTime>04/11/2021 13:51:42</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css">
+      <publishTime>04/11/2021 13:51:42</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map">
+      <publishTime>04/11/2021 13:51:42</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css">
+      <publishTime>04/11/2021 13:51:42</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map">
+      <publishTime>04/11/2021 13:51:42</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css">
+      <publishTime>04/11/2021 13:51:42</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map">
+      <publishTime>04/11/2021 13:51:42</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap.css">
+      <publishTime>04/11/2021 13:51:42</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap.css.map">
+      <publishTime>04/11/2021 13:51:42</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap.min.css">
+      <publishTime>04/11/2021 13:51:42</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map">
+      <publishTime>04/11/2021 13:51:42</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js">
+      <publishTime>04/11/2021 13:51:42</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map">
+      <publishTime>04/11/2021 13:51:42</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js">
+      <publishTime>04/11/2021 13:51:42</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map">
+      <publishTime>04/11/2021 13:51:42</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.js">
+      <publishTime>04/11/2021 13:51:42</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.js.map">
+      <publishTime>04/11/2021 13:51:42</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.min.js">
+      <publishTime>04/11/2021 13:51:42</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map">
+      <publishTime>04/11/2021 13:51:42</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/LICENSE">
+      <publishTime>04/11/2021 13:51:42</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js">
+      <publishTime>04/11/2021 13:51:42</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js">
+      <publishTime>04/11/2021 13:51:42</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt">
+      <publishTime>04/11/2021 13:51:42</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation/dist/additional-methods.js">
+      <publishTime>04/11/2021 13:51:42</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation/dist/additional-methods.min.js">
+      <publishTime>04/11/2021 13:51:42</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation/dist/jquery.validate.js">
+      <publishTime>04/11/2021 13:51:42</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation/dist/jquery.validate.min.js">
+      <publishTime>04/11/2021 13:51:42</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation/LICENSE.md">
+      <publishTime>04/11/2021 13:51:42</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery/dist/jquery.js">
+      <publishTime>04/11/2021 13:51:42</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery/dist/jquery.min.js">
+      <publishTime>04/11/2021 13:51:42</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery/dist/jquery.min.map">
+      <publishTime>04/11/2021 13:51:42</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery/LICENSE.txt">
+      <publishTime>04/11/2021 13:51:42</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
