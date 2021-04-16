@@ -21,7 +21,7 @@ namespace SolucionIoT.Web.api
         {
         }
 
-        public override ActionResult<IEnumerable<Lectura>> Consulta([FromBody] ConsultaAPIModel model)
+        public override ActionResult<IEnumerable<Lectura>> Consulta([FromBody] ConsultaAPIModel model, string id)
         {
             List<Lectura> datos = null;
             try

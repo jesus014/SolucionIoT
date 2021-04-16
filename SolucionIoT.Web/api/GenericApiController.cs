@@ -97,7 +97,7 @@ namespace SolucionIoT.Web.api
             }
         }
 
-        [HttpPatch]
-        public abstract ActionResult<IEnumerable<T>> Consulta([FromBody] ConsultaAPIModel model);
+        [HttpPost("{id}")]
+        public abstract ActionResult<IEnumerable<T>> Consulta([FromBody] ConsultaAPIModel model, string id);
     }
 }

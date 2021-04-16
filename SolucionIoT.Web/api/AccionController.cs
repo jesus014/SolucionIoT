@@ -20,7 +20,7 @@ namespace SolucionIoT.Web.api
         {
         }
 
-        public override ActionResult<IEnumerable<Accion>> Consulta([FromBody] ConsultaAPIModel model)
+        public override ActionResult<IEnumerable<Accion>> Consulta([FromBody] ConsultaAPIModel model, string id)
         {
             try
             {
