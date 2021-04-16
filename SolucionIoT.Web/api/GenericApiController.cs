@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using SolucionIoT.COMMON.Entidades;
 using SolucionIoT.COMMON.Interfaces;
+using SolucionIoT.COMMON.Modelos;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -14,7 +15,7 @@ namespace SolucionIoT.Web.api
     [ApiController]
     public abstract class  GenericApiController<T> : ControllerBase where T:BaseDTO
     {
-        IGenericManager<T> manager;
+         IGenericManager<T> manager;
 
         public GenericApiController(IGenericManager<T> genericManager)
         {
@@ -95,5 +96,8 @@ namespace SolucionIoT.Web.api
                 throw;
             }
         }
+
+        [HttpPatch]
+        public abstract ActionResult<IEnumerable<T>> Consulta([FromBody] ConsultaAPIModel model);
     }
 }

@@ -16,9 +16,9 @@ namespace SolucionIoT.BIZ
             this.usuarioRepository = usuarioRepository;
         }
 
-        public bool DispositivoPerteneceAUsuario(string idDispositivo, string idUsuario)
+        public Dispositivo DispositivoPerteneceAUsuario(string idDispositivo, string idUsuario)
         {
-            return repository.Query(d => d.Id == idDispositivo && d.IdUsuario == idUsuario).Count()==1;
+            return repository.Query(d => d.Id == idDispositivo && d.IdUsuario == idUsuario).SingleOrDefault();
         }
 
         public IEnumerable<Dispositivo> DispositivosDeUsuarioPorEmail(string email)

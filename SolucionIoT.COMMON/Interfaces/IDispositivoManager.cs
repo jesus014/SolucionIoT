@@ -11,6 +11,6 @@ namespace SolucionIoT.COMMON.Interfaces
         
         IEnumerable<Dispositivo> DispositivosDeUsuarioPorEmail(string email);
         
-        bool DispositivoPerteneceAUsuario(string idDispositivo, string idUsuario);
+        Dispositivo DispositivoPerteneceAUsuario(string idDispositivo, string idUsuario);
     }
 }

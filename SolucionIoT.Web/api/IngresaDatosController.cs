@@ -34,7 +34,7 @@ namespace SolucionIoT.Web.api
             Usuario u = usuarioManager.Login(correo, password);
             if (u != null)
             {
-                if (dispositivoManager.DispositivoPerteneceAUsuario(idDispositivo, u.Id))
+                if (dispositivoManager.DispositivoPerteneceAUsuario(idDispositivo, u.Id)!=null)
                 {
                     try
                     {
@@ -73,7 +73,7 @@ namespace SolucionIoT.Web.api
             Usuario u = usuarioManager.Login(correo, password);
             if(u != null)
             {
-                if(dispositivoManager.DispositivoPerteneceAUsuario( idDispositivo,  u.Id))
+                if(dispositivoManager.DispositivoPerteneceAUsuario( idDispositivo,  u.Id)!=null)
                 {
                     try
                     {
