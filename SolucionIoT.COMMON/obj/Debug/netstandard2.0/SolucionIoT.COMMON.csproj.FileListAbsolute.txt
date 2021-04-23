@@ -7,3 +7,11 @@ C:\AplicacionesXamarin\SolucionIoT\SolucionIoT.COMMON\obj\Debug\netstandard2.0\S
 C:\AplicacionesXamarin\SolucionIoT\SolucionIoT.COMMON\obj\Debug\netstandard2.0\SolucionIoT.COMMON.csproj.CoreCompileInputs.cache
 C:\AplicacionesXamarin\SolucionIoT\SolucionIoT.COMMON\obj\Debug\netstandard2.0\SolucionIoT.COMMON.dll
 C:\AplicacionesXamarin\SolucionIoT\SolucionIoT.COMMON\obj\Debug\netstandard2.0\SolucionIoT.COMMON.pdb
+C:\Users\HP\Documents\Git\SolucionIoT\SolucionIoT.COMMON\bin\Debug\netstandard2.0\SolucionIoT.COMMON.deps.json
+C:\Users\HP\Documents\Git\SolucionIoT\SolucionIoT.COMMON\bin\Debug\netstandard2.0\SolucionIoT.COMMON.dll
+C:\Users\HP\Documents\Git\SolucionIoT\SolucionIoT.COMMON\bin\Debug\netstandard2.0\SolucionIoT.COMMON.pdb
+C:\Users\HP\Documents\Git\SolucionIoT\SolucionIoT.COMMON\obj\Debug\netstandard2.0\SolucionIoT.COMMON.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Git\SolucionIoT\SolucionIoT.COMMON\obj\Debug\netstandard2.0\SolucionIoT.COMMON.AssemblyInfo.cs
+C:\Users\HP\Documents\Git\SolucionIoT\SolucionIoT.COMMON\obj\Debug\netstandard2.0\SolucionIoT.COMMON.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Git\SolucionIoT\SolucionIoT.COMMON\obj\Debug\netstandard2.0\SolucionIoT.COMMON.dll
+C:\Users\HP\Documents\Git\SolucionIoT\SolucionIoT.COMMON\obj\Debug\netstandard2.0\SolucionIoT.COMMON.pdb

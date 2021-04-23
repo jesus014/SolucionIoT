@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\AplicacionesXamarin\\SolucionIoT\\SolucionIoT.COMMON\\SolucionIoT.COMMON.csproj": {}
+    "C:\\Users\\HP\\Documents\\Git\\SolucionIoT\\SolucionIoT.COMMON\\SolucionIoT.COMMON.csproj": {}
   },
   "projects": {
-    "C:\\AplicacionesXamarin\\SolucionIoT\\SolucionIoT.COMMON\\SolucionIoT.COMMON.csproj": {
+    "C:\\Users\\HP\\Documents\\Git\\SolucionIoT\\SolucionIoT.COMMON\\SolucionIoT.COMMON.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\AplicacionesXamarin\\SolucionIoT\\SolucionIoT.COMMON\\SolucionIoT.COMMON.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Documents\\Git\\SolucionIoT\\SolucionIoT.COMMON\\SolucionIoT.COMMON.csproj",
         "projectName": "SolucionIoT.COMMON",
-        "projectPath": "C:\\AplicacionesXamarin\\SolucionIoT\\SolucionIoT.COMMON\\SolucionIoT.COMMON.csproj",
-        "packagesPath": "C:\\Users\\Jesus Guarneros\\.nuget\\packages\\",
-        "outputPath": "C:\\AplicacionesXamarin\\SolucionIoT\\SolucionIoT.COMMON\\obj\\",
+        "projectPath": "C:\\Users\\HP\\Documents\\Git\\SolucionIoT\\SolucionIoT.COMMON\\SolucionIoT.COMMON.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\Documents\\Git\\SolucionIoT\\SolucionIoT.COMMON\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Jesus Guarneros\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -66,7 +65,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }

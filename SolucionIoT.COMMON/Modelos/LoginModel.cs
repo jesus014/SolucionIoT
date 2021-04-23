@@ -4,7 +4,7 @@ using System.Text;
 
 namespace SolucionIoT.COMMON.Modelos
 {
-    public class Login
+    public class LoginModel
     {
         public string  Correo { get; set; }
         public string Password { get; set; }

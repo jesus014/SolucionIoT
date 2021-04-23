@@ -25,7 +25,7 @@ namespace SolucionIoT.BIZ.API
 
         public Usuario Login(string email, string password)
         {
-            throw new NotImplementedException();
+            return LoginAsync(email, password).Result;
         }
     }
 }

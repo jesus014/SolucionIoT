@@ -12,10 +12,12 @@ namespace SolucionIoT.DAL
 {
     public class GenericRepository<T> : IGenericRepository<T> where T : BaseDTO
     {
-        //readonly string dbName = @"DBIoT.db";//debug
+#if DEBUG
+        readonly string dbName = @"DBIoT.db";//debug o local
+#else
         readonly string dbName = @"d:\DZHosts\LocalUser\EquipoKobra\Protected.solucionIoTKobra.somee.com\DBIoT.db";//somme.com
 
-
+#endif
         public string Error { get;private set; }
 
         readonly AbstractValidator<T> validator;
@@ -162,7 +164,7 @@ namespace SolucionIoT.DAL
                     bool r;
                     using (var db = new LiteDatabase(new ConnectionString() { Filename = dbName }))
                     {
-                       r= db.GetCollection<T>(typeof(T).Name).Delete(entidad.Id);
+                       r= db.GetCollection<T>(typeof(T).Name).Update(entidad);
                     }
                     if (r)
                     {

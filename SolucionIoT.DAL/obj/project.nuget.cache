@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "xP40QTDr0SHaEdZo+EUrniLDO3ygIJp6mRyPk9ZL+DG1IH9Ou/wD/foATO/Xg8x6b/qpk/OEBdTVq2eUv/ZVBw==",
+  "dgSpecHash": "nivnz0noh4w7PKT1hBHHNb7mq2UD6QSR26340rQk8ytL9taCWqLkuE4YeztRrQJT4TQWgQA/7dLeIRkJRPBmQw==",
   "success": true,
-  "projectFilePath": "C:\\AplicacionesXamarin\\SolucionIoT\\SolucionIoT.DAL\\SolucionIoT.DAL.csproj",
+  "projectFilePath": "C:\\Users\\HP\\Documents\\Git\\SolucionIoT\\SolucionIoT.DAL\\SolucionIoT.DAL.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Jesus Guarneros\\.nuget\\packages\\fluentvalidation\\9.5.3\\fluentvalidation.9.5.3.nupkg.sha512",
-    "C:\\Users\\Jesus Guarneros\\.nuget\\packages\\litedb\\5.0.10\\litedb.5.0.10.nupkg.sha512",
-    "C:\\Users\\Jesus Guarneros\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Jesus Guarneros\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\HP\\.nuget\\packages\\fluentvalidation\\9.5.3\\fluentvalidation.9.5.3.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\litedb\\5.0.10\\litedb.5.0.10.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

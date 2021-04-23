@@ -275,25 +275,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Jesus Guarneros\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\HP\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\AplicacionesXamarin\\SolucionIoT\\SolucionIoT.BIZ\\SolucionIoT.BIZ.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Documents\\Git\\SolucionIoT\\SolucionIoT.BIZ\\SolucionIoT.BIZ.csproj",
       "projectName": "SolucionIoT.BIZ",
-      "projectPath": "C:\\AplicacionesXamarin\\SolucionIoT\\SolucionIoT.BIZ\\SolucionIoT.BIZ.csproj",
-      "packagesPath": "C:\\Users\\Jesus Guarneros\\.nuget\\packages\\",
-      "outputPath": "C:\\AplicacionesXamarin\\SolucionIoT\\SolucionIoT.BIZ\\obj\\",
+      "projectPath": "C:\\Users\\HP\\Documents\\Git\\SolucionIoT\\SolucionIoT.BIZ\\SolucionIoT.BIZ.csproj",
+      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\HP\\Documents\\Git\\SolucionIoT\\SolucionIoT.BIZ\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Jesus Guarneros\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -308,11 +306,11 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "C:\\AplicacionesXamarin\\SolucionIoT\\SolucionIoT.COMMON\\SolucionIoT.COMMON.csproj": {
-              "projectPath": "C:\\AplicacionesXamarin\\SolucionIoT\\SolucionIoT.COMMON\\SolucionIoT.COMMON.csproj"
+            "C:\\Users\\HP\\Documents\\Git\\SolucionIoT\\SolucionIoT.COMMON\\SolucionIoT.COMMON.csproj": {
+              "projectPath": "C:\\Users\\HP\\Documents\\Git\\SolucionIoT\\SolucionIoT.COMMON\\SolucionIoT.COMMON.csproj"
             },
-            "C:\\AplicacionesXamarin\\SolucionIoT\\SolucionIoT.DAL\\SolucionIoT.DAL.csproj": {
-              "projectPath": "C:\\AplicacionesXamarin\\SolucionIoT\\SolucionIoT.DAL\\SolucionIoT.DAL.csproj"
+            "C:\\Users\\HP\\Documents\\Git\\SolucionIoT\\SolucionIoT.DAL\\SolucionIoT.DAL.csproj": {
+              "projectPath": "C:\\Users\\HP\\Documents\\Git\\SolucionIoT\\SolucionIoT.DAL\\SolucionIoT.DAL.csproj"
             }
           }
         }
@@ -344,7 +342,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }

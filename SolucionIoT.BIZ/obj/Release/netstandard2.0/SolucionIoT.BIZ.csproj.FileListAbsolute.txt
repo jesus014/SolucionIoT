@@ -12,3 +12,17 @@ C:\AplicacionesXamarin\SolucionIoT\SolucionIoT.BIZ\obj\Release\netstandard2.0\So
 C:\AplicacionesXamarin\SolucionIoT\SolucionIoT.BIZ\obj\Release\netstandard2.0\SolucionIoT.BIZ.csproj.CopyComplete
 C:\AplicacionesXamarin\SolucionIoT\SolucionIoT.BIZ\obj\Release\netstandard2.0\SolucionIoT.BIZ.dll
 C:\AplicacionesXamarin\SolucionIoT\SolucionIoT.BIZ\obj\Release\netstandard2.0\SolucionIoT.BIZ.pdb
+C:\Users\HP\Documents\Git\SolucionIoT\SolucionIoT.BIZ\bin\Release\netstandard2.0\SolucionIoT.BIZ.deps.json
+C:\Users\HP\Documents\Git\SolucionIoT\SolucionIoT.BIZ\bin\Release\netstandard2.0\SolucionIoT.BIZ.dll
+C:\Users\HP\Documents\Git\SolucionIoT\SolucionIoT.BIZ\bin\Release\netstandard2.0\SolucionIoT.BIZ.pdb
+C:\Users\HP\Documents\Git\SolucionIoT\SolucionIoT.BIZ\bin\Release\netstandard2.0\SolucionIoT.COMMON.dll
+C:\Users\HP\Documents\Git\SolucionIoT\SolucionIoT.BIZ\bin\Release\netstandard2.0\SolucionIoT.DAL.dll
+C:\Users\HP\Documents\Git\SolucionIoT\SolucionIoT.BIZ\bin\Release\netstandard2.0\SolucionIoT.COMMON.pdb
+C:\Users\HP\Documents\Git\SolucionIoT\SolucionIoT.BIZ\bin\Release\netstandard2.0\SolucionIoT.DAL.pdb
+C:\Users\HP\Documents\Git\SolucionIoT\SolucionIoT.BIZ\obj\Release\netstandard2.0\SolucionIoT.BIZ.csprojAssemblyReference.cache
+C:\Users\HP\Documents\Git\SolucionIoT\SolucionIoT.BIZ\obj\Release\netstandard2.0\SolucionIoT.BIZ.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Git\SolucionIoT\SolucionIoT.BIZ\obj\Release\netstandard2.0\SolucionIoT.BIZ.AssemblyInfo.cs
+C:\Users\HP\Documents\Git\SolucionIoT\SolucionIoT.BIZ\obj\Release\netstandard2.0\SolucionIoT.BIZ.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Git\SolucionIoT\SolucionIoT.BIZ\obj\Release\netstandard2.0\SolucionIoT.BIZ.csproj.CopyComplete
+C:\Users\HP\Documents\Git\SolucionIoT\SolucionIoT.BIZ\obj\Release\netstandard2.0\SolucionIoT.BIZ.dll
+C:\Users\HP\Documents\Git\SolucionIoT\SolucionIoT.BIZ\obj\Release\netstandard2.0\SolucionIoT.BIZ.pdb

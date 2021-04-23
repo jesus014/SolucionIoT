@@ -10,3 +10,15 @@ C:\AplicacionesXamarin\SolucionIoT\SolucionIoT.DAL\obj\Debug\netstandard2.0\Solu
 C:\AplicacionesXamarin\SolucionIoT\SolucionIoT.DAL\obj\Debug\netstandard2.0\SolucionIoT.DAL.csproj.CopyComplete
 C:\AplicacionesXamarin\SolucionIoT\SolucionIoT.DAL\obj\Debug\netstandard2.0\SolucionIoT.DAL.dll
 C:\AplicacionesXamarin\SolucionIoT\SolucionIoT.DAL\obj\Debug\netstandard2.0\SolucionIoT.DAL.pdb
+C:\Users\HP\Documents\Git\SolucionIoT\SolucionIoT.DAL\bin\Debug\netstandard2.0\SolucionIoT.DAL.deps.json
+C:\Users\HP\Documents\Git\SolucionIoT\SolucionIoT.DAL\bin\Debug\netstandard2.0\SolucionIoT.DAL.dll
+C:\Users\HP\Documents\Git\SolucionIoT\SolucionIoT.DAL\bin\Debug\netstandard2.0\SolucionIoT.DAL.pdb
+C:\Users\HP\Documents\Git\SolucionIoT\SolucionIoT.DAL\bin\Debug\netstandard2.0\SolucionIoT.COMMON.dll
+C:\Users\HP\Documents\Git\SolucionIoT\SolucionIoT.DAL\bin\Debug\netstandard2.0\SolucionIoT.COMMON.pdb
+C:\Users\HP\Documents\Git\SolucionIoT\SolucionIoT.DAL\obj\Debug\netstandard2.0\SolucionIoT.DAL.csprojAssemblyReference.cache
+C:\Users\HP\Documents\Git\SolucionIoT\SolucionIoT.DAL\obj\Debug\netstandard2.0\SolucionIoT.DAL.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Git\SolucionIoT\SolucionIoT.DAL\obj\Debug\netstandard2.0\SolucionIoT.DAL.AssemblyInfo.cs
+C:\Users\HP\Documents\Git\SolucionIoT\SolucionIoT.DAL\obj\Debug\netstandard2.0\SolucionIoT.DAL.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Git\SolucionIoT\SolucionIoT.DAL\obj\Debug\netstandard2.0\SolucionIoT.DAL.csproj.CopyComplete
+C:\Users\HP\Documents\Git\SolucionIoT\SolucionIoT.DAL\obj\Debug\netstandard2.0\SolucionIoT.DAL.dll
+C:\Users\HP\Documents\Git\SolucionIoT\SolucionIoT.DAL\obj\Debug\netstandard2.0\SolucionIoT.DAL.pdb

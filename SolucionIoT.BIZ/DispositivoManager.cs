@@ -29,7 +29,7 @@ namespace SolucionIoT.BIZ
 
         public IEnumerable<Dispositivo> DispositivosDeUsuarioPorId(string id)
         {
-            return repository.Query(u => u.Id == id);
+            return repository.Query(u => u.IdUsuario == id);
         }
     }
 }
