@@ -11,166 +11,190 @@ edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 
   </PropertyGroup>
   <ItemGroup>
     <File Include="appsettings.Development.json">
-      <publishTime>04/11/2021 13:51:41</publishTime>
+      <publishTime>04/19/2021 11:57:38</publishTime>
     </File>
     <File Include="appsettings.json">
-      <publishTime>04/11/2021 13:51:41</publishTime>
+      <publishTime>04/19/2021 11:57:38</publishTime>
     </File>
     <File Include="FluentValidation.dll">
       <publishTime>03/15/2021 18:02:44</publishTime>
     </File>
     <File Include="LiteDB.dll">
-      <publishTime>09/01/2021 20:46:58</publishTime>
+      <publishTime>01/09/2021 20:46:58</publishTime>
+    </File>
+    <File Include="Newtonsoft.Json.dll">
+      <publishTime>03/17/2021 20:03:36</publishTime>
+    </File>
+    <File Include="OpenNETCF.Extensions.dll">
+      <publishTime>06/09/2017 10:22:02</publishTime>
+    </File>
+    <File Include="SolucionIoT.BIZ.API.dll">
+      <publishTime>04/23/2021 11:54:08</publishTime>
+    </File>
+    <File Include="SolucionIoT.BIZ.API.pdb">
+      <publishTime>04/23/2021 11:54:08</publishTime>
     </File>
     <File Include="SolucionIoT.BIZ.dll">
-      <publishTime>04/15/2021 22:28:45</publishTime>
+      <publishTime>04/23/2021 11:54:13</publishTime>
     </File>
     <File Include="SolucionIoT.BIZ.pdb">
-      <publishTime>04/15/2021 22:28:45</publishTime>
+      <publishTime>04/23/2021 11:54:13</publishTime>
     </File>
     <File Include="SolucionIoT.COMMON.dll">
-      <publishTime>04/15/2021 22:28:43</publishTime>
+      <publishTime>04/23/2021 11:54:06</publishTime>
     </File>
     <File Include="SolucionIoT.COMMON.pdb">
-      <publishTime>04/15/2021 22:28:43</publishTime>
+      <publishTime>04/23/2021 11:54:06</publishTime>
     </File>
     <File Include="SolucionIoT.DAL.dll">
-      <publishTime>04/15/2021 22:28:44</publishTime>
+      <publishTime>04/23/2021 11:54:12</publishTime>
     </File>
     <File Include="SolucionIoT.DAL.pdb">
-      <publishTime>04/15/2021 22:28:44</publishTime>
+      <publishTime>04/23/2021 11:54:12</publishTime>
+    </File>
+    <File Include="SolucionIoT.Tools.dll">
+      <publishTime>04/23/2021 11:54:06</publishTime>
+    </File>
+    <File Include="SolucionIoT.Tools.pdb">
+      <publishTime>04/23/2021 11:54:06</publishTime>
     </File>
     <File Include="SolucionIoT.Web.deps.json">
-      <publishTime>04/15/2021 22:29:22</publishTime>
+      <publishTime>04/23/2021 13:28:06</publishTime>
     </File>
     <File Include="SolucionIoT.Web.dll">
-      <publishTime>04/15/2021 22:28:50</publishTime>
+      <publishTime>04/23/2021 13:28:04</publishTime>
     </File>
     <File Include="SolucionIoT.Web.exe">
-      <publishTime>04/15/2021 22:28:51</publishTime>
+      <publishTime>04/23/2021 13:28:05</publishTime>
     </File>
     <File Include="SolucionIoT.Web.pdb">
-      <publishTime>04/15/2021 22:28:50</publishTime>
+      <publishTime>04/23/2021 13:28:04</publishTime>
     </File>
     <File Include="SolucionIoT.Web.runtimeconfig.json">
-      <publishTime>04/13/2021 11:35:30</publishTime>
+      <publishTime>04/23/2021 13:27:07</publishTime>
     </File>
     <File Include="SolucionIoT.Web.Views.dll">
-      <publishTime>04/15/2021 22:29:20</publishTime>
+      <publishTime>04/23/2021 13:28:05</publishTime>
     </File>
     <File Include="SolucionIoT.Web.Views.pdb">
-      <publishTime>04/15/2021 22:29:20</publishTime>
+      <publishTime>04/23/2021 13:28:05</publishTime>
     </File>
     <File Include="web.config">
-      <publishTime>04/15/2021 22:29:23</publishTime>
+      <publishTime>04/23/2021 13:44:20</publishTime>
     </File>
     <File Include="wwwroot/css/site.css">
-      <publishTime>04/11/2021 13:51:42</publishTime>
+      <publishTime>04/19/2021 11:57:38</publishTime>
     </File>
     <File Include="wwwroot/favicon.ico">
-      <publishTime>04/11/2021 13:51:42</publishTime>
+      <publishTime>04/19/2021 11:57:38</publishTime>
     </File>
     <File Include="wwwroot/js/site.js">
-      <publishTime>04/11/2021 13:51:42</publishTime>
+      <publishTime>04/19/2021 11:57:38</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css">
-      <publishTime>04/11/2021 13:51:42</publishTime>
+      <publishTime>04/19/2021 11:57:38</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map">
-      <publishTime>04/11/2021 13:51:42</publishTime>
+      <publishTime>04/19/2021 11:57:38</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css">
-      <publishTime>04/11/2021 13:51:42</publishTime>
+      <publishTime>04/19/2021 11:57:38</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map">
-      <publishTime>04/11/2021 13:51:42</publishTime>
+      <publishTime>04/19/2021 11:57:38</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css">
-      <publishTime>04/11/2021 13:51:42</publishTime>
+      <publishTime>04/19/2021 11:57:38</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map">
-      <publishTime>04/11/2021 13:51:42</publishTime>
+      <publishTime>04/19/2021 11:57:38</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css">
-      <publishTime>04/11/2021 13:51:42</publishTime>
+      <publishTime>04/19/2021 11:57:38</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map">
-      <publishTime>04/11/2021 13:51:42</publishTime>
+      <publishTime>04/19/2021 11:57:38</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap.css">
-      <publishTime>04/11/2021 13:51:42</publishTime>
+      <publishTime>04/20/2021 12:14:40</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap.css.map">
-      <publishTime>04/11/2021 13:51:42</publishTime>
+      <publishTime>04/19/2021 11:57:38</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap.min.css">
-      <publishTime>04/11/2021 13:51:42</publishTime>
+      <publishTime>04/20/2021 12:14:38</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map">
-      <publishTime>04/11/2021 13:51:42</publishTime>
+      <publishTime>04/19/2021 11:57:38</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap.min_old.css">
+      <publishTime>04/19/2021 11:57:38</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap_old.css">
+      <publishTime>04/19/2021 11:57:38</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js">
-      <publishTime>04/11/2021 13:51:42</publishTime>
+      <publishTime>04/19/2021 11:57:38</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map">
-      <publishTime>04/11/2021 13:51:42</publishTime>
+      <publishTime>04/19/2021 11:57:38</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js">
-      <publishTime>04/11/2021 13:51:42</publishTime>
+      <publishTime>04/19/2021 11:57:38</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map">
-      <publishTime>04/11/2021 13:51:42</publishTime>
+      <publishTime>04/19/2021 11:57:38</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.js">
-      <publishTime>04/11/2021 13:51:42</publishTime>
+      <publishTime>04/19/2021 11:57:38</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.js.map">
-      <publishTime>04/11/2021 13:51:42</publishTime>
+      <publishTime>04/19/2021 11:57:38</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.min.js">
-      <publishTime>04/11/2021 13:51:42</publishTime>
+      <publishTime>04/19/2021 11:57:38</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map">
-      <publishTime>04/11/2021 13:51:42</publishTime>
+      <publishTime>04/19/2021 11:57:38</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/LICENSE">
-      <publishTime>04/11/2021 13:51:42</publishTime>
+      <publishTime>04/19/2021 11:57:38</publishTime>
     </File>
     <File Include="wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js">
-      <publishTime>04/11/2021 13:51:42</publishTime>
+      <publishTime>04/19/2021 11:57:38</publishTime>
     </File>
     <File Include="wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js">
-      <publishTime>04/11/2021 13:51:42</publishTime>
+      <publishTime>04/19/2021 11:57:38</publishTime>
     </File>
     <File Include="wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt">
-      <publishTime>04/11/2021 13:51:42</publishTime>
+      <publishTime>04/19/2021 11:57:38</publishTime>
     </File>
     <File Include="wwwroot/lib/jquery-validation/dist/additional-methods.js">
-      <publishTime>04/11/2021 13:51:42</publishTime>
+      <publishTime>04/19/2021 11:57:38</publishTime>
     </File>
     <File Include="wwwroot/lib/jquery-validation/dist/additional-methods.min.js">
-      <publishTime>04/11/2021 13:51:42</publishTime>
+      <publishTime>04/19/2021 11:57:38</publishTime>
     </File>
     <File Include="wwwroot/lib/jquery-validation/dist/jquery.validate.js">
-      <publishTime>04/11/2021 13:51:42</publishTime>
+      <publishTime>04/19/2021 11:57:38</publishTime>
     </File>
     <File Include="wwwroot/lib/jquery-validation/dist/jquery.validate.min.js">
-      <publishTime>04/11/2021 13:51:42</publishTime>
+      <publishTime>04/19/2021 11:57:38</publishTime>
     </File>
     <File Include="wwwroot/lib/jquery-validation/LICENSE.md">
-      <publishTime>04/11/2021 13:51:42</publishTime>
+      <publishTime>04/19/2021 11:57:38</publishTime>
     </File>
     <File Include="wwwroot/lib/jquery/dist/jquery.js">
-      <publishTime>04/11/2021 13:51:42</publishTime>
+      <publishTime>04/19/2021 11:57:38</publishTime>
     </File>
     <File Include="wwwroot/lib/jquery/dist/jquery.min.js">
-      <publishTime>04/11/2021 13:51:42</publishTime>
+      <publishTime>04/19/2021 11:57:38</publishTime>
     </File>
     <File Include="wwwroot/lib/jquery/dist/jquery.min.map">
-      <publishTime>04/11/2021 13:51:42</publishTime>
+      <publishTime>04/19/2021 11:57:38</publishTime>
     </File>
     <File Include="wwwroot/lib/jquery/LICENSE.txt">
-      <publishTime>04/11/2021 13:51:42</publishTime>
+      <publishTime>04/19/2021 11:57:38</publishTime>
     </File>
   </ItemGroup>
 </Project>

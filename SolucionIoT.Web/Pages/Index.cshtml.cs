@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authentication;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.Extensions.Logging;
 using SolucionIoT.BIZ;
@@ -8,6 +9,7 @@ using SolucionIoT.COMMON.Modelos;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Claims;
 using System.Threading.Tasks;
 
 namespace SolucionIoT.Web.Pages
@@ -16,7 +18,7 @@ namespace SolucionIoT.Web.Pages
     {
         private readonly ILogger<IndexModel> _logger;
         [BindProperty]
-        public Login Login { get; set; }
+        public LoginModel Login { get; set; }
         [BindProperty]
         public bool EsLogin { get; set; }
         [BindProperty]
@@ -32,7 +34,7 @@ namespace SolucionIoT.Web.Pages
 
 
         }
-        public void OnPost()
+        public async Task<IActionResult> OnPost()
         {
             if (EsLogin)
             {
@@ -40,17 +42,27 @@ namespace SolucionIoT.Web.Pages
                 Usuario u = usuarioManager.Login(Login.Correo, Login.Password);
                 if (u != null)
                 {
-
-                    Error = $"Bienvenido {u.Nombre}!!!";
+                    List<Claim> claims = new List<Claim>
+                    {
+                        new Claim(ClaimTypes.Name,u.Nombre),
+                        new Claim(ClaimTypes.Email,u.Correo)
+                    };
+                    ClaimsIdentity identity = new ClaimsIdentity(claims, "cookie");
+                    ClaimsPrincipal principal = new ClaimsPrincipal(identity);
+                    await HttpContext.SignInAsync(scheme: "Seguridad",principal:principal, properties: new AuthenticationProperties{
+                        ExpiresUtc=DateTime.UtcNow.AddMinutes(10)
+                    });
+                    return RedirectToPage("PanelUsuario", new { idUsuario = u.Id });
                 }
                 else
                 {
                     Error = "Usuario y/o  contraseña incorrecto";
+                    return Page();
                 }
             }
             else
             {
-
+                return RedirectToPage("NuevoUsuario");
             }
 
         }
